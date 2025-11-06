@@ -1,5 +1,5 @@
 # PAC2
-Aquest GitHub conté diferents visualitzacions creades per a la Pac2 del master en Ciencia de dades de la UOC així amb els codis en Python i R utilitzats per elaborarlos.
+Aquest GitHub conté diferents visualitzacions creades per a la Pac2 de l'asignatura visualització de dades del master en Ciencia de dades de la UOC així amb els codis en Python i R utilitzats per elaborarlos.
 
 ## Organització
 - Wine_Quality_Heatmap.png: El heatmap.
