@@ -6,5 +6,5 @@ Aquest GitHub conté diferents visualitzacions creades per a la Pac2 de l'asigna
 - Heatmap.R: El codi per elaborar el heatmap.
 - Gannt_Chart.py: Codi per elaborar la Gannt Chart.
 - Gant_Chart.svg: Gant Chart.
-- Horizontal_Plot.R: Codi per elaborar Horizontal Plot.
-- Horiontal_Chart.png: Horizontal plot
+- Horizon_Plot.R: Codi per elaborar Horizontal Plot.
+- Horion_Chart.png: Horizontal plot
